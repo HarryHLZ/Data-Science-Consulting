@@ -1,4 +1,4 @@
-# Data-Science-Project
+# Data-Science-Consulting-Project
  This is a data science side project. Based on the three datasets, we need to find out why our client is churning.
  We need to test the hypothesis of whether churn is driven by the customers' price sensitivity.
  Based on the data, we would need to engineer features based on the data that we obtain, and build a binary
